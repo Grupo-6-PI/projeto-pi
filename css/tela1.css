@@ -1,0 +1,76 @@
+
+/* tela 1 */
+
+
+.tela {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .tela .div {
+    background-color: #ffffff;
+    width: 834px;
+    height: 1194px;
+    position: relative;
+  }
+  
+  .tela .bem-vindo {
+    position: absolute;
+    top: 261px;
+    left: 142px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tela .base {
+    position: absolute;
+    width: 453px;
+    height: 169px;
+    top: 494px;
+    left: 200px;
+  }
+  
+  .tela .overlap-group {
+    position: absolute;
+    width: 549px;
+    height: 104px;
+    top: 848px;
+    left: 143px;
+    background-color: #ff7920d4;
+    border-radius: 29px;
+  }
+  
+  .tela .text-wrapper {
+    position: absolute;
+    top: 27px;
+    left: 211px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .tela .text-wrapper2 {
+    position: relative;
+    top: 27px;
+    
+  }
+  
+  .tela .vector {
+    position: absolute;
+    width: 532px;
+    height: 31px;
+    top: 982px;
+    left: 151px;
+  }
+  
